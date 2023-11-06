@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 ![GH banner](https://github.com/chrisram415/chrisram415/assets/128114688/747dd3d1-80f1-4792-9304-d02dbac6886f)
 
 
+This site was built using [GitHub Pages](https://pages.github.com/).
 
-🌈 Hey, I'm Chris! I went from an 8-year education and program management career to the vibrant world of Customer Success. Born and raised in sunny San Francisco, I'm a total '80s nerd, which fuels my art – a delightful mix of cute and creepy. 💀🎨
 
-But, what I'm most passionate about is connecting with people, because what impacts one of us, impacts us all. 🧀
+🌈 Hey, I'm Chris! I went from an 8-year education and program management career to the vibrant world of Customer Success. Born and raised in sunny San Francisco, I'm a total '80s nerd, which fuels my [art](https://www.canva.com/design/DAFXVtIgN_I/WC7g4GqCb_LLv8EzcDOVIw/view?) – a delightful mix of cute and creepy. 💀🎨
+
+But, what I'm most passionate about is connecting with [people](https://www.linkedin.com/in/chris-ramirez-/), because what impacts one of us, impacts us all. 🧀
 
 My main goal is to blend tech with empathy for a positive impact. If you're on board, let's chat and create success together! 😄🚀
 
