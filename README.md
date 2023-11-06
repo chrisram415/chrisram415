@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 STORYTIME
+
 With a warm smile and a dash of humor, I made the leap from an 8-year gig in education and program management to the exciting world of Customer Success. My mission is all about bridging gaps and giving a hand with a touch of humor.🌈
 
 Born and raised in sunny San Francisco, I've got a soft spot for the '80s and all things nerdy, which drives my artistic endeavors.
@@ -33,12 +34,14 @@ My main goal is to make a positive impact by bringing tech and empathy together.
 
 
 LANGUAGES
+
 English: 🇺🇸Native
 Spanish: 🇪🇸Fluent
 Japanese: 🇯🇵Beginner
 
 
 HOBBIES
+
 Creating Comicbook Illustrations: 🎨
 Running and Hiking to the Beat of Heavy Metal Music: 🏃🤘🏞️
 Collecting Anything with Mt. Fuji: 🗻
