@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![create connect code #5 (1)](https://github.com/chrisram415/chrisram415/assets/128114688/36b4f6e6-b08c-46b2-b7b5-d9b410b70f4f)
+
+
 STORYTIME
 With a warm smile and a dash of humor, I made the leap from an 8-year gig in education and program management to the exciting world of Customer Success. My mission is all about bridging gaps and giving a hand with a touch of humor.
 
@@ -38,4 +42,3 @@ Creating Comicbook Illustrations: 🎨
 Running and Hiking to the Beat of Heavy Metal Music: 🏃🤘🏞️
 Collecting Anything with Mt. Fuji: 🗻
 
-![create connect code #5 (1)](https://github.com/chrisram415/chrisram415/assets/128114688/36b4f6e6-b08c-46b2-b7b5-d9b410b70f4f)
