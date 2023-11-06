@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![create connect code #5 (1)](https://github.com/chrisram415/chrisram415/assets/128114688/36b4f6e6-b08c-46b2-b7b5-d9b410b70f4f)
+![GH banner](https://github.com/chrisram415/chrisram415/assets/128114688/747dd3d1-80f1-4792-9304-d02dbac6886f)
+
 
 
 🌈 Hey, I'm Chris! I went from an 8-year education and program management career to the vibrant world of Customer Success. Born and raised in sunny San Francisco, I'm a total '80s nerd, which fuels my art – a delightful mix of cute and creepy. 💀🎨
