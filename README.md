@@ -1,4 +1,4 @@
-### Yo! I am Chris! Nice to meet ya! 👋
+### Yo! I'm Chris! Nice to meet ya! 👋
 
 <!--
 **chrisram415/chrisram415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
