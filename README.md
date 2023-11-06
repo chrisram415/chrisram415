@@ -1,4 +1,4 @@
-![create connect code #5 (1)](https://github.com/chrisram415/chrisram415/assets/128114688/53b76fc0-8979-4602-aa4a-bb033cab6e8f)### Hi there 👋
+### Hi there 👋
 
 <!--
 **chrisram415/chrisram415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
