@@ -1,4 +1,4 @@
-### Hi there 👋
+![create connect code #5 (1)](https://github.com/chrisram415/chrisram415/assets/128114688/53b76fc0-8979-4602-aa4a-bb033cab6e8f)### Hi there 👋
 
 <!--
 **chrisram415/chrisram415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(https://www.canva.com/design/DAFy5p4-Eh0/flVWrSC4w1KjUUn3pF59Bw/view?utm_content=DAFy5p4-Eh0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![create connect code #5 (1)](https://github.com/chrisram415/chrisram415/assets/128114688/36b4f6e6-b08c-46b2-b7b5-d9b410b70f4f)
