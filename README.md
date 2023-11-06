@@ -1,4 +1,4 @@
-### Yo! I'm Chris! Nice to meet ya! 👋
+### Yo! I'm Chris! Nice to meet ya! 👋👹
 
 <!--
 **chrisram415/chrisram415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 
 
 STORYTIME
-With a warm smile and a dash of humor, I made the leap from an 8-year gig in education and program management to the exciting world of Customer Success. My mission is all about bridging gaps and giving a hand with a touch of humor.
-
-I love to whip up art that gets folks laughing, cringing, and going "WOW" – it's a bit of cute, a bit of creepy, like a match made in Halloween heaven, I'd say! 💀🎨
-
-I'm super passionate about building connections with folks, helping us all achieve our goals.
+With a warm smile and a dash of humor, I made the leap from an 8-year gig in education and program management to the exciting world of Customer Success. My mission is all about bridging gaps and giving a hand with a touch of humor.🌈
 
 Born and raised in sunny San Francisco, I've got a soft spot for the '80s and all things nerdy, which drives my artistic endeavors.
+I love to whip up art that gets folks laughing, cringing, and going "WOW" – it's a bit of cute, a bit of creepy, like a match made in Halloween heaven, I'd say! 💀🎨
+
+But most of all I am super passionate about building connections with folks, helping us all achieve our goals. What impacts one of us, impacts us all. 🧀
+
+
 
 My main goal is to make a positive impact by bringing tech and empathy together. If you're on board with this vision, let's chat and see how we can make some success together. 😄🚀
 
