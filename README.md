@@ -27,13 +27,13 @@ My main goal is to blend tech with empathy for a positive impact. If you're on b
 
 LANGUAGES
 
--English: 🇺🇸Native
--Spanish: 🇪🇸Fluent
--Japanese: 🇯🇵Beginner
+- English: 🇺🇸Native
+- Spanish: 🇪🇸Fluent
+- Japanese: 🇯🇵Beginner
 
 HOBBIES
 
--Crafting Comicbook Illustrations: 🎨
--Rocking to Heavy Metal while Running and Hiking: 🏃🤘🏞️
--Collecting Anything with Mt. Fuji: 🗻
+- Crafting Comicbook Illustrations: 🎨
+- Rocking to Heavy Metal while Running and Hiking: 🏃🤘🏞️
+- Collecting Anything with Mt. Fuji: 🗻
 
