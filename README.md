@@ -30,6 +30,7 @@ LANGUAGES
 English: 🇺🇸Native
 Spanish: 🇪🇸Fluent
 Japanese: 🇯🇵Beginner
+
 HOBBIES
 
 Crafting Comicbook Illustrations: 🎨
