@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![GH banner](https://github.com/chrisram415/chrisram415/assets/128114688/747dd3d1-80f1-4792-9304-d02dbac6886f)
-
+![GH banner](https://github.com/chrisram415/chrisram415/assets/128114688/4b1cbadd-7e66-42a8-bfe2-bd71de055402)
 
 
 
